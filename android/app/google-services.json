@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "451344567243",
+    "project_id": "take-notes-flutterfire",
+    "storage_bucket": "take-notes-flutterfire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451344567243:android:dd6c0ebdea79327d10844e",
+        "android_client_info": {
+          "package_name": "com.example.takenotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451344567243-np270v65ge2tip95reiame4e62rh1pdu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY1wIfd83YNpeAM8AK7C7naGWMMCJk9Gk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451344567243-np270v65ge2tip95reiame4e62rh1pdu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
